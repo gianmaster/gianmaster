@@ -23,7 +23,7 @@ My name is **Giancarlos Cercado** I'm a Software Engineer with more than 10 year
 
 [Slice](https://slicelife.com/)
 
-[Knetik/CIMA](https://cimagroup.com/)
+[CIMA/TrustHab](https://cimagroup.com/)
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=gianmaster&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
